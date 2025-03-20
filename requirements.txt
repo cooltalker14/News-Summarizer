@@ -5,3 +5,4 @@ torch
 gradio
 gtts
 python-multipart
+python-dotenv
