@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+transformers
+torch
+gradio
+gtts
+python-multipart
