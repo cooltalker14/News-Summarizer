@@ -6,8 +6,6 @@ gradio
 gtts
 python-multipart
 python-dotenv
-
-python-dotenv
 fastapi
 uvicorn
 spacy
